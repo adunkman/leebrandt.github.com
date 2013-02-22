@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blogging | Lee Brandt's Blog]]></title>
   <link href="http://leebrandt.github.com/blog/categories/blogging/atom.xml" rel="self"/>
   <link href="http://leebrandt.github.com/"/>
-  <updated>2013-02-22T00:24:06-08:00</updated>
+  <updated>2013-02-22T00:42:54-08:00</updated>
   <id>http://leebrandt.github.com/</id>
   <author>
     <name><![CDATA[Lee Brandt]]></name>
@@ -18,7 +18,13 @@
     <link href="http://leebrandt.github.com/blog/2013/02/21/first-post/"/>
     <updated>2013-02-21T23:12:00-08:00</updated>
     <id>http://leebrandt.github.com/blog/2013/02/21/first-post</id>
-    <content type="html"><![CDATA[<p><strong><em>My First Post</em></strong></p>
+    <content type="html"><![CDATA[<h1>My First Post</h1>
+
+<p><code>ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+</code></p>
 ]]></content>
   </entry>
   

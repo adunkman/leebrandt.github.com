@@ -6,7 +6,11 @@
 	<title>Lee Brandt's Blog</title>
     <meta name="author" content="Lee Brandt">
     
-	<meta name="description" content=" Published on: Feb 21st, 2013 Tags: blogging, general My First Post ">
+	<meta name="description" content="Published on: Feb 21st, 2013 Tags: blogging, general My First Post 1
+2
+3
+require &#39;redcarpet&#39;
+markdown = Redcarpet.new(&quot;Hello World!& &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -124,7 +128,16 @@
 
 </div>
     </div>
-		<p><strong><em>My First Post</em></strong></p>
+		<h1>My First Post</h1>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">require</span> <span class="s1">&#39;redcarpet&#39;</span>
+</span><span class='line'><span class="n">markdown</span> <span class="o">=</span> <span class="no">Redcarpet</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="s2">&quot;Hello World!&quot;</span><span class="p">)</span>
+</span><span class='line'><span class="nb">puts</span> <span class="n">markdown</span><span class="o">.</span><span class="n">to_html</span>
+</span></code></pre></td></tr></table></div></figure>
+
 
 		
 		
