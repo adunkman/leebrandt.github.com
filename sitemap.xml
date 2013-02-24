@@ -1,23 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://leebrandt.github.com/blog/2013/02/21/first-post/</loc>
-        <lastmod>2013-02-22T00:44:11-08:00</lastmod>
-    </url>
-    <url>
         <loc>http://leebrandt.github.com/blog/archives/</loc>
-        <lastmod>2013-02-22T00:44:11-08:00</lastmod>
+        <lastmod>2013-02-22T02:11:26-06:00</lastmod>
     </url>
     <url>
         <loc>http://leebrandt.github.com/</loc>
-        <lastmod>2013-02-22T00:44:11-08:00</lastmod>
+        <lastmod>2013-02-22T02:11:26-06:00</lastmod>
     </url>
     <url>
         <loc>http://leebrandt.github.com/robots.txt</loc>
-        <lastmod>2013-02-04T00:30:09-08:00</lastmod>
+        <lastmod>2013-02-04T02:30:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://leebrandt.github.com/search.html</loc>
-        <lastmod>2013-02-22T00:11:26-08:00</lastmod>
+        <lastmod>2013-02-22T02:11:26-06:00</lastmod>
     </url>
 </urlset>
